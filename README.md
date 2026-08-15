@@ -24,17 +24,18 @@ srcset="https://raw.githubusercontent.com/Manvith-S-Shetty/Manvith-S-Shetty/outp
 src="https://raw.githubusercontent.com/Manvith-S-Shetty/Manvith-S-Shetty/output/github-snake.svg" />
 </picture>
 </div>
-<!--
-**Manvith-S-Shetty/Manvith-S-Shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://www.linkedin.com/in/manvith-s-shetty-51b16b283/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/the.day_._dreamer.____/">
+<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:manumanvith06@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
